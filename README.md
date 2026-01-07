@@ -53,8 +53,8 @@ Each day contains:
 
 ## 📌 Follow My Progress
 
-I’m documenting my **day-by-day progress**, with notes and experiments as I go:  
-[https://github.com/muhammadahmad1857/learning-web3](https://github.com/muhammadahmad1857/learning-web3)
+Tracking my **day-by-day Web3 journey**, sharing notes, experiments, and insights:  
+[https://linkedin.com/in/muhammadahmadjawad](https://linkedin.com/in/muhammadahmadjawad)
 
 ---
 
