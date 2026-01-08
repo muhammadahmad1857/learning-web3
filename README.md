@@ -14,6 +14,7 @@ The goal is to **build a solid foundation** in Web3 while tracking my progress p
 📦web3-learning
  ┣ 📂day-01-fundamentals
  ┃ ┗ 📜Web3_Fundamentals_Notes.md
+ .......
  ┗ 📜README.md
 ```
 Each day contains:
